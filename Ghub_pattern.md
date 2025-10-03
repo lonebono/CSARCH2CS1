@@ -16,13 +16,14 @@
 
 Briefly describe your project build (1–2 paragraphs).  
 Mention: target use case (e.g., general-purpose desktop, gaming, programming, data science, etc.) and budget constraint.
+Our aim is to make an entry level budgeted gaming PC. AMD based CPU with that will be suitable for light 720p gaming and we have a budget of 20,000.
 
 ---
 
 ## 2. Draft Build (PCPartPicker)
 
 This build uses **PCPartPicker System Builder** for compatibility check.
-PCPartPicker Permalink: ****\_****
+PCPartPicker Permalink: \***\*\_\*\***
 
 ### Summary Table
 
@@ -45,7 +46,7 @@ PCPartPicker Permalink: ****\_****
 ## 3. Local Manila Build
 
 This build uses **locally available parts** from Manila vendors.
-Google spreadsheet link: ****\_****
+Google spreadsheet link: \***\*\_\*\***
 
 ### Local Build Table
 
@@ -78,7 +79,7 @@ Example:
 
 ## 5. Budget Analysis
 
-- **Budget Limit**: ₱XX,000
+- **Budget Limit**: ₱20,000
 - **Final Total**: ₱XX,000
 - ✅ Within budget / ❌ Over budget
 - Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
