@@ -68,12 +68,12 @@ Google spreadsheet link: \***\*\_\*\***
 
 ## 4. Compatibility Justification
 
-For each part, explain compatibility and choices.  
-Example:
-
-- **CPU + Motherboard**: Intel i5-13400F (LGA1700) works with ASUS B760M board (LGA1700 socket, BIOS compatible).
-- **RAM**: DDR5 RAM supported by motherboard slots (up to 128GB).
-- **GPU**: NVIDIA RTX 3060 fits case, PSU wattage sufficient.
+- **CPU + Motherboard**: The AMD Ryzen 5 5600G and Gigabyte A520M K V2 are fully compatible because they share the AM4 socket, the motherboard chipset supports Ryzen 5000 CPUs, and memory speed support aligns perfectly.
+- **CPU Cooler**: Supports AM4 socket mounting so it's perfect for the CPU. Affordability while it keeps the CPU cool and quiet even under load.
+- **RAM**: DDR4 memory is supported by the motherboard and cpu. 16 GB is good for gaming and productivity especially on lowend. A single stick leaves room for upgrading.
+- **STORAGE**: The motherboard has an M.2 slot for NVMe drives, installation is easier. 1 TB storage, especially PCIe Gen 4 SSDs is good for OS, programs, and games at once, there's faster read/write speeds compared to SATA
+- **CASE**: The case supports the MicroATX motherboard and clearance of GPU up to ~300mm. CPU cooler clearance is also up to 160mm. It's a good choice for it's affordability with decent airflow, modern design, and compact space.
+- **PSU**: This fits the case, and PSU wattage is sufficient for this build since there's no given GPU. Bronze efficiency ensures reliability.
 
 ---
 
