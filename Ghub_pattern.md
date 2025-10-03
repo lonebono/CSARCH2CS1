@@ -14,9 +14,6 @@
 
 ## 1. Introduction
 
-Briefly describe your project build (1–2 paragraphs).  
-Mention: target use case (e.g., general-purpose desktop, gaming, programming, data science, etc.) and budget constraint.
-
 Our aim is to make an entry level budgeted gaming PC. AMD based CPU with that will be suitable for light 720p gaming and we have a budget of 20,000.
 
 ---
