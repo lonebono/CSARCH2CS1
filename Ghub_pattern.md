@@ -81,8 +81,7 @@ Google spreadsheet link: **https://docs.google.com/spreadsheets/d/1__PgC3_cZbxnE
 - **Budget Limit**: ₱20,000
 - **Final Total**: ₱19,965
 - ✅ Within budget
-- Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
-  Notes: Better CPU with overclocking to handle better graphics, no GPU, and just right PSU wattage.
+- Notes: Better CPU with overclocking to handle better graphics, no GPU, and just right PSU wattage.
 
 ---
 
