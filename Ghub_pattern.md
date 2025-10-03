@@ -1,4 +1,4 @@
-# Custom Desktop PC Build – Group X
+# Custom Desktop PC Build – Group 6
 
 **Course**: CSARCH2  
 **Section**: S17
