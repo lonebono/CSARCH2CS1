@@ -90,7 +90,7 @@ CONCLUSION: When creating our custom PC build, we noticed a significant price di
 
 ## 7. Video pitch
 
-- Your video link here
+- https://youtu.be/vS28dYGQI2U?si=ksJL4THMSBWd0HVE
 
 ## 8. References
 
