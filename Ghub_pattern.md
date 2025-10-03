@@ -23,7 +23,7 @@ Our aim is to make an entry level budgeted gaming PC. AMD based CPU with that wi
 ## 2. Draft Build (PCPartPicker)
 
 This build uses **PCPartPicker System Builder** for compatibility check.
-PCPartPicker Permalink: \***\*\_\*\***
+PCPartPicker Permalink: \***\*[\_\](https://pcpartpicker.com/user/lonebono/saved/v7vWBm)*\***
 
 ### Summary Table
 
