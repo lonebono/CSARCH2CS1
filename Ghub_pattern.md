@@ -79,19 +79,16 @@ Google spreadsheet link: **https://docs.google.com/spreadsheets/d/1__PgC3_cZbxnE
 ## 5. Budget Analysis
 
 - **Budget Limit**: ₱20,000
-- **Final Total**: ₱XX,000
-- ✅ Within budget / ❌ Over budget
+- **Final Total**: ₱19,965
+- ✅ Within budget
 - Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
+  Notes: Better CPU with overclocking to handle better graphics, no GPU, and just right PSU wattage.
 
 ---
 
 ## 6. Conclusion & Learnings
 
-Reflections on:
-
-- Price differences (international vs. Manila vendors)
-- Challenges in finding stock or cheaper equivalents
-- What the group learned about PC components and system design
+CONCLUSION: When creating our custom PC build, we noticed a significant price difference between international vendors and Local suppliers in Manila. International listings are often cheaper; once the shipping fees and taxes are considered, buying locally becomes the more practical choice. Local vendors also offer faster transactions and warranty support, making them more reliable overall. When searching for stock and affordable alternatives, popular components such as RAM and SSDs are often in short supply, and some cheaper options come from unfamiliar brands. This forced us to balance price, availability, and reliability, so we had to stay flexible when sourcing parts. Through this process, we learned the importance of compatibility and system design. From matching CPUs and motherboards to ensuring enough power supply wattage, we saw how each component affects overall performance and upgrade potential. More than just buying parts, building a PC requires careful planning, cost analysis, and technical understanding.
 
 ---
 
